@@ -1,11 +1,35 @@
 body {
 	background-color:#8FE7D1;
 	font-family:century gothic;
-	font-size:10pt;
+	font-size:12pt;
 	font-color:black;
 		}
+
+.small {
+	font-size:8pt;
+	font-weight:bold;
+	font-style:italic;
+}
 
 .header {
 	font-size:18pt;
 	font-weight:bold;
+	padding:20px;
+	background-color:#91AEA7;
+	margin:30px;
+}
+
+.boxes {
+	width: 800px;
+
+}
+
+a {
+	color:#FF3DDE;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+
 }
