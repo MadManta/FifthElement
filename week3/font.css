@@ -1,0 +1,26 @@
+body
+{
+    font-family: fantasy;
+    font-weight: 100;
+    line-height: 20px;
+    letter-spacing: 5px;
+
+}
+#differentfont
+{
+    font-family: 'Indie Flower', cursive;
+}
+a:hover
+{
+    background-color: plum;
+
+}
+a:active
+{
+    background-color: aquamarine;
+
+}
+a:focus
+{
+    color: rgb(252, 138, 0);
+}
